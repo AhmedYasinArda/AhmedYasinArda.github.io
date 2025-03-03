@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Sayfam</title>
+    <title>@MarsilBey</title>
     <link>https://AhmedYasinArda.github.io/</link>
-    <description>Recent content on Blog Sayfam</description>
+    <description>Recent content on @MarsilBey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Mar 2025 20:34:08 +0300</lastBuildDate>
     <atom:link href="https://AhmedYasinArda.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>İlk Yazı</title>
+      <title>Yeni Bir Başlangıç</title>
       <link>https://AhmedYasinArda.github.io/posts/ilk-yazi/</link>
       <pubDate>Mon, 03 Mar 2025 20:34:08 +0300</pubDate>
       <guid>https://AhmedYasinArda.github.io/posts/ilk-yazi/</guid>
-      <description>İlk blog yazı denemem</description>
+      <description>&lt;p&gt;Blog yazmaya başlıyoruz :D&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
